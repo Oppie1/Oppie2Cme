@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\1.18CZNestingIfStatements.me\1.18CZNestingIfStatements.me\main.c(25,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\1.18CZNestingIfStatements.me\1.18CZNestingIfStatements.me\main.c(25,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\1.18CZNestingIfStatements.me\1.18CZNestingIfStatements.me\main.c(25,10):
+      the missing variadic argument 2 is required by format string '%c'
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\1.18CZNestingIfStatements.me\1.18CZNestingIfStatements.me\main.c(25,10):
+      this argument is used as a buffer size
+  
+  1.18CZNestingIfStatements.me.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\1.18CZNestingIfStatements.me\x64\Debug\1.18CZNestingIfStatements.me.exe
