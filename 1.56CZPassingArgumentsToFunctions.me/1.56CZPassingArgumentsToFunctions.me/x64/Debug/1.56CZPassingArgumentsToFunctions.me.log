@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\1.56CZPassingArgumentsToFunctions.me\1.56CZPassingArgumentsToFunctions.me\main.c(35,19): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\1.56CZPassingArgumentsToFunctions.me\1.56CZPassingArgumentsToFunctions.me\main.c(51,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  1.56CZPassingArgumentsToFunctions.me.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\meC\1.56CZPassingArgumentsToFunctions.me\x64\Debug\1.56CZPassingArgumentsToFunctions.me.exe
